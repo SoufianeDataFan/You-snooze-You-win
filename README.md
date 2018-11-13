@@ -13,10 +13,10 @@ heart attack and depression, hypotension, diminished immune function ..etc.
 In PhysioNet challenge of 2018, we have more than 13 signals records of +1900 subjects ( 994 subjects for Training (+ 100 GB) and
  998 subjects for Testing)
 
-**The **objective** is** to automatically detect arousal regions in the signals. Traditionally, scientists and doctors used to do it manually and this can be
-time consuming task.
+**The **objective** is** to automatically detect arousal regions in the signals. Traditionally, this task required visual inspection by scientists and doctors which can be a
+time-consuming task.
 
-The automation of sleep arousals will allow faster evaluation of sleep disorder for each subject. 
+The detection automation of sleep arousals regions will allow faster evaluation of sleep disorder for each subject. 
 
 
 
