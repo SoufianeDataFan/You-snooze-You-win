@@ -10,8 +10,9 @@ People with sleep apnea can't sleep at night because their breathing stops repea
 When this situation lasts for weeks or months, you can imagine how painful this can be. In fact, sleep apnea can reportedly cause depression, heart problem, High blood pressure ..etc. [learn more](https://www.webmd.com/sleep-disorders/sleep-apnea/sleep-apnea)
 
 >Furthermore, While apneas are arguably the best understood of sleep disturbances, they are not the only cause of disturbance. Sleep arousals can also be spontaneous, result from teeth grinding, partial airway obstructions, or even snoring. In this year's PhysioNet Challenge we will use a variety of physiological signals, collected during polysomnographic sleep studies, to detect these other sources of arousal (non-apnea) during sleep.
-In PhysioNet challenge of 2018, we have more than 13 signals records of +1900 subjects ( 994 subjects for Training (+ 100 GB) and
- 998 subjects for Testing)
+
+
+>Data for this challenge [...] includes 1,985 subjects which were monitored at an MGH sleep laboratory for the diagnosis of sleep disorders. The data were partitioned into balanced training (n = 994), and test sets (n = 989).
 
 **The **objective** is** to automatically detect arousal regions in the signals. Traditionally, this task required visual inspection by scientists and doctors which can be a
 time-consuming task.
