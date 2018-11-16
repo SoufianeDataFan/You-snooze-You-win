@@ -2,10 +2,8 @@ import os
 import sys
 import glob
 import numpy as np
-import physionetchallenge2018_lib as phyc
 import matplotlib
 from pylab import find
-from sklearn.linear_model import LogisticRegression
 from sklearn.externals import joblib
 
 def init():
