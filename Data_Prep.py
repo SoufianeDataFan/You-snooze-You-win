@@ -1,5 +1,6 @@
 """
-Soufiane Soufiane 
+Soufiane CHAMI
+Created : 15/11/2018
 """
 import os
 import numpy as np
