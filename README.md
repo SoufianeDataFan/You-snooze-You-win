@@ -4,7 +4,7 @@
 
 <h3><i> About the project:  </i></h3>
 
-Well, if you don't know what is Sleep Apnea, I wish you'll never have it because it's really bad. 
+Well, if you don't know what is Sleep Apnea, (I wish you'll never have it because it's not fun) 
 People with sleep apnea can't sleep at night because their breathing stops repeatedly and starts again. Lack of sleep at night will cause daytime sleepness. As a result, the person can't sleep enough and can't stay awake either. 
 
 When this situation lasts for weeks or months, you can imagine how painful this can be. In fact, sleep apnea can reportedly cause depression, heart problem, High blood pressure ..etc. [learn more](https://www.webmd.com/sleep-disorders/sleep-apnea/sleep-apnea)
